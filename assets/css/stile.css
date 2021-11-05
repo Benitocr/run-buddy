@@ -97,6 +97,7 @@ section{
 }
 .hero-form h3{
     font-size: 24px;
+    margin: 0;
 }
 .hero-form P{
     margin: 5px 0 15px 0;
@@ -151,7 +152,7 @@ section{
       background-color: #fce138;
   }
 
- /* .steps h2{
+    .section-title{
     font-size: 55px;
     color: #024e76;
     margin-bottom: 35px;
@@ -159,7 +160,7 @@ section{
     display: inline-block;
     border-bottom: 3px solid;
     
-  }*/
+  }
 
   .primary-border{
       border-color: #fce138;
@@ -193,4 +194,4 @@ section{
   }
 
 
-  /*Me quede en 1.4.6*/
+  
