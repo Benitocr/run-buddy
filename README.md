@@ -4,8 +4,8 @@
 A website taht offers fitness training services.
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://benitocr.github.io/run-buddy/
