@@ -11,4 +11,4 @@ A website taht offers fitness training services.
 https://benitocr.github.io/run-buddy/
 
 ##Contribution
-Made with love by Benito
+Made  by Benito
