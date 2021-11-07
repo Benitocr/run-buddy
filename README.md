@@ -1,14 +1,14 @@
 # run-buddy
 
-##Purpose 
+## Purpose 
 A website taht offers fitness training services.
 
-##Built With
+## Built With
 *HTML
 *CSS
 
-##Website
+## Website
 https://benitocr.github.io/run-buddy/
 
-##Contribution
+## Contribution
 Made  by Benito
